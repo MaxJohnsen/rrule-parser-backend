@@ -1,4 +1,4 @@
-# Feedback-Collector
+# RRULE Parser
 
 A web backend that accepts a iCal formatted recurrence rule and sends back a generated list of dates as JSON.
 

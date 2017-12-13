@@ -9,7 +9,7 @@ A web backend that accepts a iCal formatted recurrence rule and sends back a gen
 
 ## Hosting
 
-The application is hosted at (Heroku)[https://rrule-parser.herokuapp.com], and is publicly available.
+The application is hosted at [Heroku](https://rrule-parser.herokuapp.com), and is publicly available.
 
 ## How to use
 

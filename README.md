@@ -1,22 +1,16 @@
 # Feedback-Collector
-A web application to help buisness owners easily collect feedback from their customers/users.
 
-*Note:* This is application is built as part of a course in full-stack development, and will not be deployed as an actual service. The application will use a minimum amount of styling, as the focus of this project is the JavaScript part of things.
+A web backend that accepts a iCal formatted recurrence rule and sends back a generated list of dates as JSON.
 
 ## Stack
-### Back-end
-+ MongoDB
-+ Mongoose.js
-+ Express.js
-+ Node.js
-### Front-end
-+ React.js
-+ Redux.js
-### Authentication
-+ Google OAuth
-+ Passport.js
-### Payment
-+ Stripe
+
+* Node.js
+* Express.js
 
 ## Hosting
-The application is hosted on [Heroku](https://feedback-collector.herokuapp.com/).
+
+The application is hosted at (Heroku)[https://rrule-parser.herokuapp.com], and is publicly available.
+
+## How to use
+
+You can either send requests to the publicly available Heroku service, or host the application on your own.
